@@ -1,0 +1,16 @@
+
+#Client Regeneration Settings
+[client]
+
+	#Skin Settings
+	[client.skin]
+		#Disabling this will disable skin changing for you and you will retain your Mojang one
+		changeMySkin = true
+		#Changes the players perspective on regeneration
+		changePerspective = true
+
+		#Misc Settings
+		[client.skin.misc]
+			#Toggle whether Timelords second head layers render, as some look good without and some look good with, I just leave this decision up to you
+			timelordRenderSecondLayers = true
+

@@ -1,0 +1,10 @@
+
+#Skin Settings
+[skin]
+	#Toggle whether a bunch of trending skins are downloaded from NameMC
+	downloadTrendingSkins = true
+	#Toggle whether the mod downloads your past skins from NameMC
+	downloadPastSkins = true
+	#Toggle whether the mod downloads it's own pack of Doctor who Skins
+	downloadInternalSkins = true
+
