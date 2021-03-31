@@ -24,5 +24,10 @@
   "forge:ingots/titanium": "chemlib:ingot_titanium",
   "forge:rubber": "null",
   "forge:dusts/sulfur": "mekanism:dust_sulfur",
-  "forge:ingots/nickel": "immersiveengineering:ingot_nickel"
+  "forge:ingots/nickel": "immersiveengineering:ingot_nickel",
+  "forge:ingots/lumium": "emendatusenigmatica:lumium_ingot",
+  "forge:gems/apatite": "emendatusenigmatica:apatite_gem",
+  "forge:dusts/niter": "emendatusenigmatica:potassium_nitrate_dust",
+  "forge:ingots/enderium": "emendatusenigmatica:enderium_ingot",
+  "forge:ingots/signalum": "emendatusenigmatica:signalum_ingot"
 }

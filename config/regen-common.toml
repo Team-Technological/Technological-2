@@ -16,6 +16,10 @@
 	sendRegenDeathMessages = true
 	#This is where the regeneration skin folder will be generated, the default is './', the path MUST NOT end in /
 	skinDir = "."
+	#Toggle whether fob watches generate in some chest loot tables
+	genFobLoot = true
+	#Toggle whether mobs have regenerations. In most cases, requires a game restart.
+	mobsHaveRegens = false
 
 #Post Regen Settings
 [post]

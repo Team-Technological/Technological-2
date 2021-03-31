@@ -11,6 +11,6 @@
 
 		#Misc Settings
 		[client.skin.misc]
-			#Toggle whether Timelords second head layers render, as some look good without and some look good with, I just leave this decision up to you
+			#Toggle whether re-skinned hearts render when you have Regenerations
 			timelordRenderSecondLayers = true
 

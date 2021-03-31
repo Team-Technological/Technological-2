@@ -169,3 +169,10 @@ config/neat-client.toml
 config/itemzoom-client.toml
 config/inventoryhud-client.toml
 config/ftbchunks-client.toml
+config/immersiveengineering-client.toml
+
+# MacOSX
+.DS_Store
+.DS_Store?
+config/immersivepetroleum-client.toml
+config/cyclopscore-client.toml
