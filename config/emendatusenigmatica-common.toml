@@ -858,7 +858,7 @@
 		overworld_spread = 12
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 118
+		overworld_count = 64
 		#Configure the ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
 		overworld_size = 10

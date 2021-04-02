@@ -152,7 +152,7 @@
 	#Nutritional PasteSettings
 	[general.nutritional_paste]
 		#Saturation level of Nutritional Paste when eaten.
-		saturation = 5
+		saturation = 0.8
 		#How much mB of Nutritional Paste equates to one 'half-food.'
 		mbPerFood = 50
 
