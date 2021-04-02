@@ -20,6 +20,7 @@ screenshots/
 /classes/
 /kubejs/exported
 /ESM/
+/Regeneration Data/
 # Utilities
 .github_changelog_generator
 github_changelog_generator.gemspec
