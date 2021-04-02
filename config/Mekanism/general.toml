@@ -13,7 +13,7 @@
 	transmitterAlloyUpgrade = true
 	#Base factor for working out machine performance with upgrades - UpgradeModifier * (UpgradesInstalled/UpgradesPossible).
 	#Range: > 1
-	maxUpgradeMultiplier = 10
+	maxUpgradeMultiplier = 20
 	#How much Boiler heat is immediately usable to convert water to steam.
 	boilerWaterConductivity = 0.7
 	#Amount of heat produced per fuel tick of a fuel's burn time in the Fuelwood Heater.
@@ -25,7 +25,7 @@
 	superheatingHeatTransfer = 1.6E7
 	#Displayed temperature unit in Mekanism GUIs.
 	#Allowed Values: K, C, R, F, STP
-	temperatureUnit = "K"
+	temperatureUnit = "C"
 	#Peak processing rate for the Solar Neutron Activator. Note: It can go higher than this value in some extreme environments.
 	maxSolarNeutronActivatorRate = 64
 
@@ -152,7 +152,7 @@
 	#Nutritional PasteSettings
 	[general.nutritional_paste]
 		#Saturation level of Nutritional Paste when eaten.
-		saturation = 0.8
+		saturation = 5
 		#How much mB of Nutritional Paste equates to one 'half-food.'
 		mbPerFood = 50
 

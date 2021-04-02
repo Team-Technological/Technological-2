@@ -13,10 +13,10 @@
 		overworld_spread = 60
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 15
+		overworld_count = 20
 		#Configure the ore Vein Size [Default: 17]
 		#Range: 0 ~ 64
-		overworld_size = 17
+		overworld_size = 20
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -78,10 +78,10 @@
 		overworld_spread = 32
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		overworld_count = 17
+		overworld_count = 20
 		#Configure the ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
-		overworld_size = 11
+		overworld_size = 17
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -143,10 +143,10 @@
 		overworld_spread = 16
 		#Average Ores per Chunk [Default: 7]
 		#Range: 0 ~ 64
-		overworld_count = 7
+		overworld_count = 10
 		#Configure the ore Vein Size [Default: 8]
 		#Range: 0 ~ 64
-		overworld_size = 8
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -208,10 +208,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		overworld_count = 3
+		overworld_count = 7
 		#Configure the ore Vein Size [Default: 8]
 		#Range: 0 ~ 64
-		overworld_size = 8
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -273,10 +273,10 @@
 		overworld_spread = 56
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		overworld_count = 3
+		overworld_count = 7
 		#Configure the ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		overworld_size = 4
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -338,10 +338,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 4]
 		#Range: 0 ~ 64
-		overworld_count = 4
+		overworld_count = 8
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -403,10 +403,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		overworld_count = 8
+		overworld_count = 11
 		#Configure the ore Vein Size [Default: 11]
 		#Range: 0 ~ 64
-		overworld_size = 11
+		overworld_size = 13
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -468,10 +468,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 17]
 		#Range: 0 ~ 64
-		overworld_count = 17
+		overworld_count = 20
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 12
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -533,10 +533,10 @@
 		overworld_spread = 10
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		overworld_count = 8
+		overworld_count = 12
 		#Configure the ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		overworld_size = 5
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -598,10 +598,10 @@
 		overworld_spread = 4
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		overworld_count = 8
+		overworld_count = 12
 		#Configure the ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		overworld_size = 5
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -663,10 +663,10 @@
 		overworld_spread = 4
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		overworld_count = 8
+		overworld_count = 12
 		#Configure the ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		overworld_size = 5
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -728,10 +728,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 8]
 		#Range: 0 ~ 64
-		overworld_count = 8
+		overworld_count = 12
 		#Configure the ore Vein Size [Default: 4]
 		#Range: 0 ~ 64
-		overworld_size = 4
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -793,10 +793,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 6]
 		#Range: 0 ~ 64
-		overworld_count = 6
+		overworld_count = 10
 		#Configure the ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		overworld_size = 6
+		overworld_size = 8
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -858,10 +858,10 @@
 		overworld_spread = 12
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 15
+		overworld_count = 118
 		#Configure the ore Vein Size [Default: 6]
 		#Range: 0 ~ 64
-		overworld_size = 6
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -923,10 +923,10 @@
 		overworld_spread = 7
 		#Average Ores per Chunk [Default: 15]
 		#Range: 0 ~ 64
-		overworld_count = 15
+		overworld_count = 18
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -988,10 +988,10 @@
 		overworld_spread = 8
 		#Average Ores per Chunk [Default: 9]
 		#Range: 0 ~ 64
-		overworld_count = 9
+		overworld_count = 11
 		#Configure the ore Vein Size [Default: 5]
 		#Range: 0 ~ 64
-		overworld_size = 5
+		overworld_size = 7
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1044,7 +1044,7 @@
 
 	["Certus Quartz Config".Overworld]
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = true
+		generate_in_the_overworld = false
 		#Baseline Y-Level [Default: 32]
 		#Range: 0 ~ 256
 		overworld_base = 32
@@ -1109,7 +1109,7 @@
 
 	["Charged Certus Quartz Config".Overworld]
 		#Activate/Deactivate the Ore Gen in The Overworld [Default: true]
-		generate_in_the_overworld = true
+		generate_in_the_overworld = false
 		#Baseline Y-Level [Default: 16]
 		#Range: 0 ~ 256
 		overworld_base = 16
@@ -1183,10 +1183,10 @@
 		overworld_spread = 16
 		#Average Ores per Chunk [Default: 5]
 		#Range: 0 ~ 64
-		overworld_count = 5
+		overworld_count = 8
 		#Configure the ore Vein Size [Default: 9]
 		#Range: 0 ~ 64
-		overworld_size = 9
+		overworld_size = 11
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1437,16 +1437,16 @@
 		generate_in_the_overworld = true
 		#Baseline Y-Level [Default: 8]
 		#Range: 0 ~ 256
-		overworld_base = 8
+		overworld_base = 20
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 256
-		overworld_spread = 8
+		overworld_spread = 20
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		overworld_count = 3
+		overworld_count = 8
 		#Configure the ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		overworld_size = 7
+		overworld_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []
@@ -1455,19 +1455,19 @@
 
 	["Sulfur Config"."The Nether"]
 		#Activate/Deactivate the Ore Gen in The Nether [Default: false]
-		generate_in_the_nether = false
+		generate_in_the_nether = true
 		#Baseline Y-Level [Default: 38]
 		#Range: 0 ~ 128
-		nether_base = 0
+		nether_base = 20
 		#Spread Amount (# of Y-Levels above and below the Baseline) [Default: 8]
 		#Range: 0 ~ 128
-		nether_spread = 0
+		nether_spread = 20
 		#Average Ores per Chunk [Default: 3]
 		#Range: 0 ~ 64
-		nether_count = 0
+		nether_count = 8
 		#Ore Vein Size [Default: 7]
 		#Range: 0 ~ 64
-		nether_size = 0
+		nether_size = 10
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		nether_biome_blacklist = []
@@ -1755,10 +1755,10 @@
 		overworld_spread = 50
 		#Average Ores per Chunk [Default: 16]
 		#Range: 0 ~ 64
-		overworld_count = 16
+		overworld_count = 20
 		#Configure the ore Vein Size [Default: 14]
 		#Range: 0 ~ 64
-		overworld_size = 14
+		overworld_size = 16
 		#List of biome IDs in which the ore is not allowed to generate.
 		#To blacklist all biomes from a single mod, use 'modid:*'
 		overworld_biome_blacklist = []

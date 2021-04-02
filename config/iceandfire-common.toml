@@ -5,13 +5,13 @@
 	#Blocks that a dragon can break, but won't spawn drops for. Use the format like "minecraft:stone" or "rats:block_of_cheese" 
 	noDropBreakBlocks = ["minecraft:stone", "minecraft:dirt", "minecraft:grass_block"]
 	#Whether to generate silver ore or not
-	"Generate Silver Ore" = true
+	"Generate Silver Ore" = false
 	#True if using blacklists, false if using whitelists for dragons and structure gen.
 	"Use Dimension Blacklist" = false
 	#Whitelist mob spawn (troll, hippogryph, etc) dimensions. Use the format like "minecraft:the_nether" or "rats:ratlantis" 
 	blacklistDimensions = ["minecraft:overworld"]
 	#Whether to generate copper ore or not
-	"Generate Copper Ore" = true
+	"Generate Copper Ore" = false
 	#Whether to generate sapphire ore or not
 	"Generate Sapphire Ore" = true
 	#Whether to generate amethyst ore or not
@@ -96,10 +96,10 @@
 	"Explosive Dragon Breath" = false
 	#How many blocks away can dragons spot potential prey. Note that increasing this could cause lag.
 	#Range: 1 ~ 10000
-	"Dragon Target Search Length" = 128
+	"Dragon Target Search Length" = 50
 	#How many blocks away can dragons wander from their defined "home" position.
 	#Range: 1 ~ 10000
-	"Dragon Wander From Home Distance" = 40
+	"Dragon Wander From Home Distance" = 20
 	#Every interval of this number in ticks, dragon hunger decreases.
 	#Range: 1 ~ 10000
 	"Dragon Hunger Tick Rate" = 3000
@@ -126,7 +126,7 @@
 	#Range: 1.0 ~ 10000.0
 	"Gorgon Max Health" = 100.0
 	#True if pixie villages are allowed to spawn
-	"Spawn Pixies" = true
+	"Spawn Pixies" = false
 	#1 out of this number chance per chunk for generation
 	#Range: 1 ~ 10000
 	"Spawn Pixies Chance" = 60
@@ -134,7 +134,7 @@
 	#Range: 1 ~ 10000
 	"Pixie Village Size" = 5
 	#True if pixies are allowed to steal from players
-	"Pixies Steal Items" = true
+	"Pixies Steal Items" = false
 	#True if cyclops caves are allowed to spawn
 	"Spawn Cyclopes Caves" = true
 	#1 out of this number chance per chunk for generation
@@ -182,7 +182,7 @@
 	"Spawn Hippocampus Chance" = 40
 	#How many blocks away can death worms spot potential prey. Note that increasing this could cause lag
 	#Range: 1 ~ 10000
-	"Death Worm Target Search Length" = 64
+	"Death Worm Target Search Length" = 20
 	#Default deathworm health, this is scaled to the worm's particular size
 	#Range: 1.0 ~ 10000.0
 	"Death Worm Base Health" = 10.0
@@ -208,7 +208,7 @@
 	#True if chickens lay rotten eggs.
 	"Chickens Lay Rotten Eggs" = true
 	#True if cockatrices are allowed to spawn
-	"Spawn Cockatrices" = true
+	"Spawn Cockatrices" = false
 	#Cockatrice spawn weight. Lower = lower chance to spawn
 	#Range: 1 ~ 10000
 	"Cockatrice Spawn Weight" = 4
@@ -217,7 +217,7 @@
 	"Cockatrice Spawn Check Chance" = 0
 	#How many blocks away can stymphalian birds spot potential prey. Note that increasing this could cause lag.
 	#Range: 1 ~ 10000
-	"Stymphalian Bird Target Search Length" = 64
+	"Stymphalian Bird Target Search Length" = 20
 	#1/this number chance for a stymphalian feather to turn into an item before despawning. Zero means never.
 	#Range: 0 ~ 10000
 	"Stymphalian Bird Feather Drop Chance" = 25
@@ -300,7 +300,7 @@
 	#Range: 1 ~ 10000
 	"Spawn Sea Serpent Chance" = 250
 	#Whether or not sea serpents can break weak blocks in their way
-	"Sea Serpent Griefing" = true
+	"Sea Serpent Griefing" = false
 	#Default sea serpent health, this is scaled to the sea serpent's particular size
 	#Range: 1.0 ~ 10000.0
 	"Sea Serpent Base Health" = 20.0
@@ -309,15 +309,15 @@
 	"Sea Serpent Base Attack Strength" = 4.0
 	#Default attack strength of a dragonsteel sword.
 	#Range: 5.0 ~ 2.147483647E9
-	"Dragonsteel Sword Base Attack Strength" = 25.0
+	"Dragonsteel Sword Base Attack Strength" = 50.0
 	#Default armor value of dragonsteel chestplate.
 	#Range: > 7
-	"Dragonsteel Base Armor" = 12
+	"Dragonsteel Base Armor" = 24
 	#Default durability value of dragonsteel sword.
 	#Range: > 1
-	"Dragonsteel Base Durability" = 8000
+	"Dragonsteel Base Durability" = 32000
 	#Enable this if your server is being bombarded with moved wrongly or moved too fast console messages. REQUIRES RESTART!
-	"Dragon Moved Wrongly Error Fix" = false
+	"Dragon Moved Wrongly Error Fix" = true
 	#Disable this to remove easter egg with tinkers installed.
 	Weezer = true
 	#Percentage of critical strike that will disarm with easter egg tinkers material.

@@ -14,7 +14,7 @@
 		[worldgen.v1.copper_ore]
 			#
 			#Whether to spawn this in your World
-			enable = true
+			enable = false
 			#No comment
 			#Range: > 0
 			clusterSize = 18

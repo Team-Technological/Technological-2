@@ -9,7 +9,7 @@
 		fuelUsageMultiplier = 1.0
 		#A multiplier for balancing overall power production from Extreme Reactors generators.
 		#Range: 0.5 ~ 100.0
-		powerProductionMultiplier = 1.0
+		powerProductionMultiplier = 3.0
 		#Number of ticks between updates for the Redstone Port.
 		#Range: 10 ~ 100
 		ticksPerRedstoneUpdate = 20
@@ -69,7 +69,7 @@
 		registerCharcoalForSmelting = true
 		#If set, coal will be smeltable into graphite bars.
 		#Disable this if other mods need to smelt coal into their own products.
-		registerCoalForSmelting = true
+		registerCoalForSmelting = false
 
 	#Define how ores generates in the world
 	[common.worldgen]

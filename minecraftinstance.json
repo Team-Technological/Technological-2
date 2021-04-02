@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-04-02T18:44:57.1262605Z",
+  "lastPlayed": "2021-04-02T19:33:49.174435Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -4851,97 +4851,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 244844,
-      "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
-      "installedFile": {
-        "id": 3246245,
-        "displayName": "ForgeEndertech-1.16.4-7.1.0.0-build.0075.jar",
-        "fileName": "ForgeEndertech-1.16.4-7.1.0.0-build.0075.jar",
-        "fileDate": "2021-03-20T23:23:51.447Z",
-        "fileLength": 487377,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3246/245/ForgeEndertech-1.16.4-7.1.0.0-build.0075.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2638066051,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3698136077,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3885284708,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "CHANGELOG.md",
-            "fingerprint": 4109496675,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "coremods",
-            "fingerprint": 1021069991,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 585354997,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3648966452,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 702328308,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "ForgeEndertech-1.16.4-7.1.0.0-build.0075.jar"
-      },
-      "dateInstalled": "2021-02-27T00:58:13.2009517Z",
-      "dateUpdated": "2021-03-25T21:25:32.7991967Z",
-      "dateLastUpdateAttempted": "2021-03-25T21:25:32.7991967Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 410168,
       "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
       "installedFile": {
@@ -9491,110 +9400,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 318833,
-      "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
-      "installedFile": {
-        "id": 3228430,
-        "displayName": "AdLods-1.16.4-4.1.4.0-build.0043.jar",
-        "fileName": "AdLods-1.16.4-4.1.4.0-build.0043.jar",
-        "fileDate": "2021-03-06T16:00:49.207Z",
-        "fileLength": 97659,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3228/430/AdLods-1.16.4-4.1.4.0-build.0043.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 220311,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 260925,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 244844,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3517932101,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3435282484,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "CHANGELOG.md",
-            "fingerprint": 2310911007,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "logo.png",
-            "fingerprint": 1874309745,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2734381500,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 347931828,
-        "gameVersion": [
-          "1.16.5",
-          "Forge",
-          "1.16.4"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "AdLods-1.16.4-4.1.4.0-build.0043.jar"
-      },
-      "dateInstalled": "2021-02-27T00:58:13.3876131Z",
-      "dateUpdated": "2021-03-18T00:50:06.1712068Z",
-      "dateLastUpdateAttempted": "2021-03-18T00:50:06.1712068Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 317716,
       "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
       "installedFile": {
@@ -13713,6 +13518,92 @@
       "installedTargets": null
     },
     {
+      "addonID": 227443,
+      "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
+      "installedFile": {
+        "id": 3257497,
+        "displayName": "thermal_dyenamics-1.16.4-1.0.0.jar",
+        "fileName": "thermal_dyenamics-1.16.4-1.0.0.jar",
+        "fileDate": "2021-04-01T06:56:58.61Z",
+        "fileLength": 55942,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3257/497/thermal_dyenamics-1.16.4-1.0.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 222880,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2685714249,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cofh",
+            "fingerprint": 3014969928,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2635045668,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 354527838,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3700272641,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1303263362,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "thermal_dyenamics-1.16.4-1.0.0.jar"
+      },
+      "dateInstalled": "2021-04-02T19:28:54.7741405Z",
+      "dateUpdated": "2021-04-02T19:28:54.7761436Z",
+      "dateLastUpdateAttempted": "2021-04-02T19:28:54.7761436Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 241967,
       "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
       "installedFile": {
@@ -17357,24 +17248,6 @@
       "dateInstalled": "2021-02-27T00:55:16.8153119Z",
       "dateUpdated": "2021-02-27T00:55:16.817814Z",
       "dateLastUpdateAttempted": "2021-02-27T00:55:16.817814Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 400714,
-      "gameInstanceID": "4e7af3f8-c135-428b-8012-69ff2a07f8d2",
-      "installedFile": null,
-      "dateInstalled": "2021-02-27T01:35:26.5525807Z",
-      "dateUpdated": "2021-02-27T01:35:26.5635903Z",
-      "dateLastUpdateAttempted": "2021-02-27T01:35:26.5635903Z",
       "status": 5,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
